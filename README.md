@@ -1,5 +1,9 @@
 # Personal Planck-Style 4x10 Vial Keymap
 
+![Planck-style Layer 0 — QWERTY](assets/img/layers/layer-0-qwerty.svg)
+
+[View the complete layer reference](assets/img/layers/index.md).
+
 This repository contains a reusable Vial layout backup for a 40-key
 ortholinear keyboard with four rows of ten keys.
 
