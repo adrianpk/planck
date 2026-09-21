@@ -163,6 +163,7 @@ BOTTOM_KEYS = {
     "KC_LALT": ("Alt", "", "modifier"),
     "KC_LSHIFT": ("Shift", "", "modifier"),
     "KC_LCTRL": ("Ctrl", "", "modifier"),
+    "MO(6)": ("L6", "HOLD", "layer"),
     "KC_SPACE": ("Space", "", "action"),
     "LT6(KC_SPACE)": ("Space", "HOLD L6", "layer"),
     "KC_BSPACE": ("Bksp", "", "action"),

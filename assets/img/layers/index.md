@@ -30,8 +30,9 @@ These diagrams are generated from the current Vial backup.
 
 ![Layer 6 — Extended function keys](layer-6-extended-function-keys.svg)
 
-The `F13`–`F24` block is available for host-defined shortcuts. The configured
-desktop host maps these positions to virtual desktops 1–12.
+The mirrored `F13`–`F24` blocks are available for host-defined shortcuts from
+either hand. The configured desktop host maps both blocks to virtual desktops
+1–12.
 
 Layers 7 through 15 are reserved and currently unassigned.
 

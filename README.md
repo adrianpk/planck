@@ -17,11 +17,12 @@ host-defined shortcuts.
 The bottom row stays consistent across the typing layers:
 
 ```text
-GUI  Alt  Shift  Control  Space / Layer 6  |  Backspace  Enter  Esc / Layer 4  Tab  Delete
+Layer 6  Alt  Shift  Control  Space  |  Backspace  Enter  Esc / Layer 4  Tab  Delete
 ```
 
 Tapping `Esc / Layer 4` sends `Escape`. Holding it activates the layer
-selector. Tapping `Space` sends a normal space; holding it activates layer 6.
+selector. Holding the first key on the bottom row activates layer 6. `Space`
+always sends a normal space.
 
 ## Layers
 
@@ -33,7 +34,7 @@ selector. Tapping `Space` sends a normal space; holding it activates layer 6.
 | 3 | Media and navigation | Mute, volume, brightness, Home, End, Insert, Delete, Page Up, Page Down, Print Screen, Scroll Lock, and programming symbols tuned for a Latin American host layout |
 | 4 | Layer selector | Selects layers 0-5 with `DF(0)` through `DF(5)` |
 | 5 | Colemak | Standard Colemak letters with the same punctuation and bottom row as QWERTY |
-| 6 | Extended function keys | `F13`–`F24` arranged as a left-hand 3×4 block for host-defined shortcuts |
+| 6 | Extended function keys | `F13`–`F24` repeated as left- and right-hand 3×4 blocks for host-defined shortcuts |
 | 7-15 | Unused | Reserved layers |
 
 The two typing layouts are:
@@ -59,12 +60,13 @@ The same selectors are repeated on the final three keys of those rows.
 Selecting a layer with `DF(n)` makes it the active default layer. Use the same
 sequence to switch again.
 
-Hold `Space / Layer 6` to access the extended function keys:
+Hold the first key on the bottom row to access the extended function keys from
+either hand:
 
 ```text
-F13  F14  F15  F16   → host shortcuts 1–4
-F17  F18  F19  F20   → host shortcuts 5–8
-F21  F22  F23  F24   → host shortcuts 9–12
+F13  F14  F15  F16   · ·   F13  F14  F15  F16   → host shortcuts 1–4
+F17  F18  F19  F20   · ·   F17  F18  F19  F20   → host shortcuts 5–8
+F21  F22  F23  F24   · ·   F21  F22  F23  F24   → host shortcuts 9–12
 ```
 
 On the configured desktop host, these shortcuts select virtual desktops 1–12.

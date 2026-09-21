@@ -72,17 +72,17 @@
 <text x="793.0" y="268.0" class="key-label" font-size="17">.</text>
   <rect x="832" y="240" width="58" height="54" rx="8" fill="#c4b5d4" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="861.0" y="268.0" class="key-label" font-size="17">/</text>
-  <rect x="220" y="304" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="249.0" y="332.0" class="key-label" font-size="17">GUI</text>
+  <rect x="220" y="304" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="249.0" y="327.0" class="key-label" font-size="17">L6</text>
+<text x="249.0" y="344.0" class="key-sub">HOLD</text>
   <rect x="288" y="304" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="317.0" y="332.0" class="key-label" font-size="17">Alt</text>
   <rect x="356" y="304" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="385.0" y="332.0" class="key-label" font-size="17">Shift</text>
   <rect x="424" y="304" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="453.0" y="332.0" class="key-label" font-size="17">Ctrl</text>
-  <rect x="492" y="304" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="521.0" y="327.0" class="key-label" font-size="17">Space</text>
-<text x="521.0" y="344.0" class="key-sub">HOLD L6</text>
+  <rect x="492" y="304" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="521.0" y="332.0" class="key-label" font-size="17">Space</text>
   <rect x="560" y="304" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="589.0" y="332.0" class="key-label" font-size="17">Bksp</text>
   <rect x="628" y="304" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
