@@ -18,17 +18,17 @@ These diagrams are generated from the current Vial backup.
 
 ![Layer 3 — Media and navigation](layer-3-media-navigation.svg)
 
-## Layer 4 — Layer selector
+## Layer 4 — Colemak
 
-![Layer 4 — Layer selector](layer-4-layer-selector.svg)
+![Layer 4 — Colemak](layer-4-colemak.svg)
 
-## Layer 5 — Colemak
+## Layer 5 — Extended function keys
 
-![Layer 5 — Colemak](layer-5-colemak.svg)
+![Layer 5 — Extended function keys](layer-5-extended-function-keys.svg)
 
-## Layer 6 — Extended function keys
+## Layer 6 — Layer selector
 
-![Layer 6 — Extended function keys](layer-6-extended-function-keys.svg)
+![Layer 6 — Layer selector](layer-6-layer-selector.svg)
 
 The mirrored `F13`–`F24` blocks are available for host-defined shortcuts from
 either hand. The configured desktop host maps both blocks to virtual desktops
